@@ -1,0 +1,9 @@
+[package]
+name = "doubly_linked_list"
+version = "0.0.0"
+edition = "2018"
+publish = false
+
+[[bin]]
+path = "main.rs"
+name = "doubly_linked_list"
